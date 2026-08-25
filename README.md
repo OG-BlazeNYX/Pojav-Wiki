@@ -9,13 +9,13 @@
 <img src="https://img.shields.io/badge/PojavLauncher-Android-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="PojavLauncher"/>
 <br/>
 <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"/>
-<img src="https://img.shields.io/github/v/release/YOUR_USERNAME/PojavTT?style=for-the-badge&color=orange" alt="Release"/>
-<img src="https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/PojavTT/build.yml?style=for-the-badge&label=Build" alt="Build Status"/>
+<img src="https://img.shields.io/github/v/release/OG-BlazeNYX/Pojav-Wiki?style=for-the-badge&color=orange" alt="Release"/>
+<img src="https://img.shields.io/github/actions/workflow/status/OG-BlazeNYX/Pojav-Wiki/build.yml?style=for-the-badge&label=Build" alt="Build Status"/>
 
 <br/>
 
-<img src="https://img.shields.io/github/downloads/YOUR_USERNAME/PojavTT/total?style=flat-square&logo=github" alt="Downloads"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/PojavTT?style=flat-square&logo=github" alt="Stars"/>
+<img src="https://img.shields.io/github/downloads/OG-BlazeNYX/Pojav-Wiki/total?style=flat-square&logo=github" alt="Downloads"/>
+<img src="https://img.shields.io/github/stars/OG-BlazeNYX/Pojav-Wiki?style=flat-square&logo=github" alt="Stars"/>
 <img src="https://img.shields.io/modrinth/dt/YOUR_MODRINTH_SLUG?style=flat-square&logo=modrinth&label=Modrinth%20downloads&color=1bd96a" alt="Modrinth Downloads"/>
 
 </div>
@@ -144,8 +144,8 @@ Open the in-game config screen via:
 ## 🏗️ Building from source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PojavTT.git
-cd PojavTT
+git clone https://github.com/OG-BlazeNYX/Pojav-Wiki.git
+cd Pojav-Wiki
 ./gradlew build
 ```
 
@@ -165,9 +165,9 @@ Pull requests are welcome! For major changes, please open an issue first to
 discuss what you'd like to change.
 
 <div align="center">
-<img src="https://img.shields.io/github/issues/YOUR_USERNAME/PojavTT?style=flat-square"/>
-<img src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/PojavTT?style=flat-square"/>
-<img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/PojavTT?style=flat-square"/>
+<img src="https://img.shields.io/github/issues/OG-BlazeNYX/Pojav-Wiki?style=flat-square"/>
+<img src="https://img.shields.io/github/issues-pr/OG-BlazeNYX/Pojav-Wiki?style=flat-square"/>
+<img src="https://img.shields.io/github/last-commit/OG-BlazeNYX/Pojav-Wiki?style=flat-square"/>
 </div>
 
 ---
